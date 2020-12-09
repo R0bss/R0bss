@@ -5,7 +5,7 @@
 <br />
 
 
-Hi, I'm [Roberto Luiz](https://blog.abhisheknaidu.tech/), Junior Developer 🚀 from Brasil, currently,👨🏽‍💻 working in projects with Java/JS. Beside's programming, I enjoy play and read.
+Hi, I'm [Roberto Luiz](https://blog.abhisheknaidu.tech/), Junior Developer 🚀 from Brasil, currently,👨🏽‍💻 working in projects with Java/JS. Beside's programming, I enjoy play to videogames and read.
 
 <br />
 
