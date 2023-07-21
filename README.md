@@ -21,7 +21,7 @@ Hi, I'm [Roberto Luiz](https://www.linkedin.com/in/roberto-luiz-45616a139), Fron
 - 📝[Resume](https://drive.google.com/file/d/1XRwdP2Q8Woqm6CQFdIiQljJTd2rC4EqM/view?usp=sharing)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0bss&layout=compact&theme=dark)](https://github.com/R0bss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0bss&layout=compact&theme=dracula)](https://github.com/R0bss/github-readme-stats)
 
 
 <br />
