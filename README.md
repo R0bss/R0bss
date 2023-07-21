@@ -5,7 +5,7 @@
 <br />
 
 
-Hi, I'm [Roberto Luiz](https://www.linkedin.com/in/roberto-luiz-45616a139), Junior Developer 🚀 from Brasil, currently,👨🏽‍💻 working in projects with Java/JS. Beside's programming, I enjoy play to videogames and read science fiction books .
+Hi, I'm [Roberto Luiz](https://www.linkedin.com/in/roberto-luiz-45616a139), Front End Developer 🚀 from Brasil, currently,👨🏽‍💻 working in projects with Angular JS, Typescript, SASS. Beside's programming, I enjoy play to videogames and read science fiction books .
 
 <br />
 
@@ -15,7 +15,7 @@ Hi, I'm [Roberto Luiz](https://www.linkedin.com/in/roberto-luiz-45616a139), Juni
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning JavaScript and C++; 
+- 🌱 I’m currently learning ReactJS, NextJS, and Redux; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: **luizroberto1957@hotmail.com**;
 - 📝[Resume](https://drive.google.com/file/d/1dd0VxZSuL41E4i8dmNKO9iT3Za7WcRfr/view?usp=sharing)
